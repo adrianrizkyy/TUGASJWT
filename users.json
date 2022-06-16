@@ -1,0 +1,20 @@
+[
+  {
+    "userid": "1",
+    "username": "admin",
+    "fullname": "admin",
+    "password": "$2a$10$5WSh2DcEXa2MCv2n8YBrVOokrLwngUK7aytL68674Ay4G.GNFWRnu"
+  },
+  {
+    "userid": "2",
+    "username": "manager",
+    "fullname": "manager",
+    "password": "$2a$10$C2XmxsZnbYu6rb2Woaxb.OSAx0JyOVhQYU6y0V3ATyLrXueJ7aiua"
+  },
+  {
+    "userid": "3",
+    "username": "customer",
+    "fullname": "customer",
+    "password": "$2a$10$ni9VZ4.eCDTrbEJonL2u4u2qJdo2wkOSQZVLaC.9Kry4I9JiKSoQK"
+  }
+]
