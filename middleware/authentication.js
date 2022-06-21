@@ -3,7 +3,8 @@ const { verifyToken } = require('../auth/jwt');
 
 class Authentication {
     static verifyToken(req, res, next) {
-        const token = req.body.token;
+        const token = req.headers.token;
+        
         let result = false;
         if (token) {
             const userDecoded = verifyToken(token);
