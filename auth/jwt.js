@@ -3,6 +3,7 @@ const SECRET_KEY = "inirahasia";
 
 const generateToken = function(payload){
     const token = jwt.sign(payload, SECRET_KEY, { expiresIn: 60 * 5 });
+    console.log('Token');
     return token;
 };
 
