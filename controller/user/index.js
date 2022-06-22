@@ -22,7 +22,7 @@ class userController {
             res.status(200).json({ status: true, message: 'Data ditemukan!', error: null, data: data });
         }
         else {
-            res.status(200).json({ status: true, message: 'Data tidak ditemukan!', error: null, data: null });
+            res.status(200).json({ status: false, message: 'Data tidak ditemukan!', error: null, data: null });
         }
 
     }

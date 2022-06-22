@@ -16,5 +16,17 @@
     "username": "customer",
     "fullname": "customer",
     "password": "$2a$10$ni9VZ4.eCDTrbEJonL2u4u2qJdo2wkOSQZVLaC.9Kry4I9JiKSoQK"
+  },
+  {
+    "userid": 4,
+    "username": "test",
+    "fullname": "Jest test",
+    "password": "$2a$10$7wZQdSjiGQ6vz.zegBJ/x.CV2HAXxdTFgx1E.V6mKbDbwoXxU9NvG"
+  },
+  {
+    "userid": 5,
+    "username": "test",
+    "fullname": "Jest test",
+    "password": "$2a$10$tJb2aXoLUFo3nR2mv8C4we9B8cWJqFkNjQgUO1BXeRMSIAK2eqsMK"
   }
 ]
